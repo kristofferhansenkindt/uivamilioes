@@ -1,7 +1,7 @@
 {
   "name": "viva-sorte",
   "version": "1.0.0",
-  "description": "Site Viva Sorte - Sorteios",
+  "description": "Site Sorte - Sorteios",
   "type": "module",
   "scripts": {
     "dev": "vercel dev",
