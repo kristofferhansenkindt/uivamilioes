@@ -1,16 +1,13 @@
 {
   "name": "viva-sorte",
   "version": "1.0.0",
-  "description": "Site Sorte - Sorteios",
+  "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vercel dev",
-    "start": "vercel dev",
-    "deploy": "vercel --prod"
+    "build": "echo Build OK",
+    "dev": "vercel dev"
   },
   "engines": {
-    "node": ">=18"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+    "node": "20.x"
+  }
 }
